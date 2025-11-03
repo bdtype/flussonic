@@ -1,17 +1,17 @@
 # 🚀 Installing Flussonic Media Server  
-## How to Install Flussonic Streaming Server  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fbdtype%2FFlussonic-Media-Server&label=&icon=github&color=%23198754&message=&style=flat&tz=localtime)
+## How to Install Flussonic Streaming Server  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fflussoniciptv%2FFlussonic-Media-Server&label=&icon=github&color=%23198754&message=&style=flat&tz=localtime)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/bdtype/Flussonic-Media-Server">
+  <a href="https://github.com/flussoniciptv/Flussonic-Media-Server">
     <img src="https://img.shields.io/badge/Support%20by%20Starring-⭐%20Click%20Here-blue?style=for-the-badge" alt="Support by Starring" />
   </a>
 </p>
 
 <p align="center">
   <strong>Hello Viewers! 🌟</strong><br>
-  If you find my work helpful, please consider giving a star to <a href="https://github.com/bdtype/Flussonic-Media-Server">Flussonic-Media-Server</a>.<br>
+  If you find my work helpful, please consider giving a star to <a href="https://github.com/flussoniciptv/Flussonic-Media-Server">Flussonic-Media-Server</a>.<br>
   Your support means a lot and helps me keep building awesome tools!
 </p>
 
@@ -149,8 +149,8 @@ To install updates, simply update the packages and install Flussonic:
       service flussonic restart
 
 -- Live TV Php and Html Demo:
-- 📢 **LIVE TV 1** [Click Here](https://live.bdtype.com)
-- 📢 **LIVE TV 2** [Click Here](https://flix.bdtype.com)
+- 📢 **LIVE TV 1** [Click Here](https://live.flussoniciptv.com)
+- 📢 **LIVE TV 2** [Click Here](https://flix.flussoniciptv.com)
 
 
 Our Group:
